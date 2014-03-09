@@ -1,0 +1,44 @@
+[
+  {
+    "rank":5,
+    "song":"Lights",
+    "artist":"Ellie Goulding",
+    "genre":"indie pop",
+    "percent":0.671875
+  },
+  {
+    "rank":97,
+    "song":"Let Her Go",
+    "artist":"Passenger",
+    "genre":"indie pop",
+    "percent":0.666666667
+  },
+  {
+    "rank":45,
+    "song":"Summertime Sadness",
+    "artist":"Lana Del Rey",
+    "genre":"indie pop",
+    "percent":0.609375
+  },
+  {
+    "rank":13,
+    "song":"Pumped Up Kicks",
+    "artist":"Foster The People",
+    "genre":"indie pop",
+    "percent":0.6
+  },
+  {
+    "rank":3,
+    "song":"We Are Young",
+    "artist":"fun. feat. Janelle Monae",
+    "genre":"indie pop",
+    "percent":0.474576271
+  },
+  {
+    "rank":1,
+    "song":"Somebody That I Used To Know",
+    "artist":"Gotye feat. Kimbra",
+    "genre":"indie pop",
+    "percent":0.465517241
+  }
+]

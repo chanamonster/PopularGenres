@@ -1,0 +1,324 @@
+[
+  {
+    "rank":64,
+    "song":"I Cry",
+    "artist":"Flo Rida",
+    "genre":"hiphop",
+    "percent":0.669117647
+  },
+  {
+    "rank":73,
+    "song":"Work Hard, Play Hard",
+    "artist":"Wiz Khalifa",
+    "genre":"hiphop",
+    "percent":0.622222222
+  },
+  {
+    "rank":32,
+    "song":"Started From The Bottom",
+    "artist":"Drake",
+    "genre":"hiphop",
+    "percent":0.608108108
+  },
+  {
+    "rank":84,
+    "song":"Backseat",
+    "artist":"New Boyz feat. The Cataracs and Dev",
+    "genre":"hiphop",
+    "percent":0.58974359
+  },
+  {
+    "rank":59,
+    "song":"All Of The Lights",
+    "artist":"Kanye West",
+    "genre":"hiphop",
+    "percent":0.585714286
+  },
+  {
+    "rank":45,
+    "song":"Rack City",
+    "artist":"Tyga",
+    "genre":"hiphop",
+    "percent":0.581632653
+  },
+  {
+    "rank":31,
+    "song":"Black And Yellow",
+    "artist":"Wiz Khalifa",
+    "genre":"hiphop",
+    "percent":0.565789474
+  },
+  {
+    "rank":99,
+    "song":"I'm Different",
+    "artist":"2 Chainz",
+    "genre":"hiphop",
+    "percent":0.555555556
+  },
+  {
+    "rank":80,
+    "song":"So Good",
+    "artist":"B.o.B",
+    "genre":"hiphop",
+    "percent":0.551724138
+  },
+  {
+    "rank":57,
+    "song":"Dance (A$$)",
+    "artist":"Big Sean feat. Nicki Minaj",
+    "genre":"hiphop",
+    "percent":0.529411765
+  },
+  {
+    "rank":39,
+    "song":"Love Me",
+    "artist":"Lil Wayne feat. Drake and Future",
+    "genre":"hiphop",
+    "percent":0.51552795
+  },
+  {
+    "rank":54,
+    "song":"No Lie",
+    "artist":"2 Chainz feat. Drake",
+    "genre":"hiphop",
+    "percent":0.514705882
+  },
+  {
+    "rank":92,
+    "song":"Cashin' Out",
+    "artist":"Ca$h Out",
+    "genre":"hiphop",
+    "percent":0.505882353
+  },
+  {
+    "rank":79,
+    "song":"Swimming Pools (Drank)",
+    "artist":"Kendrick Lamar",
+    "genre":"hiphop",
+    "percent":0.505376344
+  },
+  {
+    "rank":28,
+    "song":"The Show Goes On",
+    "artist":"Lupe Fiasco",
+    "genre":"hiphop",
+    "percent":0.504950495
+  },
+  {
+    "rank":86,
+    "song":"5 O'Clock",
+    "artist":"T-Pain feat. Wiz Khalifa and Lily Allen",
+    "genre":"hiphop",
+    "percent":0.496
+  },
+  {
+    "rank":58,
+    "song":"Rocketeer",
+    "artist":"Far East Movement feat. Ryan Tedder",
+    "genre":"hiphop",
+    "percent":0.493506494
+  },
+  {
+    "rank":27,
+    "song":"Mercy",
+    "artist":"Kanye West",
+    "genre":"hiphop",
+    "percent":0.450704225
+  },
+  {
+    "rank":32,
+    "song":"Young, Wild and Free",
+    "artist":"Wiz Khalifa",
+    "genre":"hiphop",
+    "percent":0.45
+  },
+  {
+    "rank":63,
+    "song":"Work Out",
+    "artist":"J. Cole",
+    "genre":"hiphop",
+    "percent":0.445378151
+  },
+  {
+    "rank":63,
+    "song":"Written In The Stars",
+    "artist":"Tinie Tempah feat. Eric Turner",
+    "genre":"hiphop",
+    "percent":0.444444444
+  },
+  {
+    "rank":5,
+    "song":"Can't Hold Us",
+    "artist":"Macklemore",
+    "genre":"hiphop",
+    "percent":0.444444444
+  },
+  {
+    "rank":1,
+    "song":"Thrift Shop",
+    "artist":"Macklemore",
+    "genre":"hiphop",
+    "percent":0.442477876
+  },
+  {
+    "rank":38,
+    "song":"Coming Home",
+    "artist":"Diddy - Dirty Money feat. Skylar Grey",
+    "genre":"hiphop",
+    "percent":0.434782609
+  },
+  {
+    "rank":79,
+    "song":"Birthday Cake",
+    "artist":"Rihanna feat. Chris Brown",
+    "genre":"hiphop",
+    "percent":0.431818182
+  },
+  {
+    "rank":51,
+    "song":"Ass Back Home",
+    "artist":"Gym Class Heroes feat. Neon Hitch",
+    "genre":"hiphop",
+    "percent":0.413333333
+  },
+  {
+    "rank":22,
+    "song":"Holy Grail",
+    "artist":"Jay Z",
+    "genre":"hiphop",
+    "percent":0.396825397
+  },
+  {
+    "rank":43,
+    "song":"Same Love",
+    "artist":"Macklemore",
+    "genre":"hiphop",
+    "percent":0.396694215
+  },
+  {
+    "rank":87,
+    "song":"U.O.E.N.O.",
+    "artist":"Rocko feat. Future and Rick Ross",
+    "genre":"hiphop",
+    "percent":0.394736842
+  },
+  {
+    "rank":51,
+    "song":"I Need A Doctor",
+    "artist":"Dr. Dre feat. Eminem and Skylar Grey",
+    "genre":"hiphop",
+    "percent":0.393939394
+  },
+  {
+    "rank":91,
+    "song":"Bugatti",
+    "artist":"Ace Hood feat. Future and Rick Ross",
+    "genre":"hiphop",
+    "percent":0.38
+  },
+  {
+    "rank":48,
+    "song":"Power Trip",
+    "artist":"J. Cole feat. Miguel",
+    "genre":"hiphop",
+    "percent":0.364864865
+  },
+  {
+    "rank":67,
+    "song":"Berzerk",
+    "artist":"Eminem",
+    "genre":"hiphop",
+    "percent":0.363636364
+  },
+  {
+    "rank":20,
+    "song":"The Motto",
+    "artist":"Drake feat. Lil Wayne",
+    "genre":"hiphop",
+    "percent":0.345679012
+  },
+  {
+    "rank":41,
+    "song":"Fuckin' Problems",
+    "artist":"ASAP Rocky",
+    "genre":"hiphop",
+    "percent":0.337209302
+  },
+  {
+    "rank":34,
+    "song":"Lighters",
+    "artist":"Bad Meets Evil feat. Bruno Mars",
+    "genre":"hiphop",
+    "percent":0.333333333
+  },
+  {
+    "rank":95,
+    "song":"She Will",
+    "artist":"Lil Wayne feat. Drake",
+    "genre":"hiphop",
+    "percent":0.333333333
+  },
+  {
+    "rank":78,
+    "song":"Drank In My Cup",
+    "artist":"Kirko Bangz",
+    "genre":"hiphop",
+    "percent":0.333333333
+  },
+  {
+    "rank":100,
+    "song":"My Last",
+    "artist":"Big Sean feat. Chris Brown",
+    "genre":"hiphop",
+    "percent":0.329411765
+  },
+  {
+    "rank":59,
+    "song":"Bad",
+    "artist":"Wale feat. Tiara Thomas or Rihanna",
+    "genre":"hiphop",
+    "percent":0.313953488
+  },
+  {
+    "rank":45,
+    "song":"No Hands",
+    "artist":"Waka Flocka Flame feat. Roscoe Dash and Wale",
+    "genre":"hiphop",
+    "percent":0.31372549
+  },
+  {
+    "rank":85,
+    "song":"Headlines",
+    "artist":"Drake",
+    "genre":"hiphop",
+    "percent":0.305555556
+  },
+  {
+    "rank":21,
+    "song":"Look At Me Now",
+    "artist":"Chris Brown feat. Lil Wayne and Busta Rhymes",
+    "genre":"hiphop",
+    "percent":0.261538462
+  },
+  {
+    "rank":47,
+    "song":"I'm On One",
+    "artist":"DJ Khaled feat. Drake, Rick Ross and Lil Wayne",
+    "genre":"hiphop",
+    "percent":0.257731959
+  },
+  {
+    "rank":41,
+    "song":"6 Foot 7 Foot",
+    "artist":"Lil Wayne feat. Cory Gunz",
+    "genre":"hiphop",
+    "percent":0.179245283
+  },
+  {
+    "rank":4,
+    "song":"Harlem Shake",
+    "artist":"Baauer",
+    "genre":"hiphop",
+    "percent":0.153846154
+  }
+]

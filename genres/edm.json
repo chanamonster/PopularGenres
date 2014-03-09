@@ -1,0 +1,65 @@
+[
+  {
+    "rank":84,
+    "song":"Turn Up The Music",
+    "artist":"Chris Brown",
+    "genre":"edm",
+    "percent":0.68115942
+  },
+  {
+    "rank":26,
+    "song":"Don't You Worry Child",
+    "artist":"Swedish House Mafia feat. John Martin",
+    "genre":"edm",
+    "percent":0.632653061
+  },
+  {
+    "rank":56,
+    "song":"Don't Wake Me Up",
+    "artist":"Chris Brown",
+    "genre":"edm",
+    "percent":0.619047619
+  },
+  {
+    "rank":24,
+    "song":"Clarity",
+    "artist":"Zedd feat. Foxes",
+    "genre":"edm",
+    "percent":0.555555556
+  },
+  {
+    "rank":19,
+    "song":"Wake Me Up!",
+    "artist":"Avicii",
+    "genre":"edm",
+    "percent":0.477272727
+  },
+  {
+    "rank":76,
+    "song":"Come Over",
+    "artist":"Kenny Chesney",
+    "genre":"edm",
+    "percent":0.46875
+  },
+  {
+    "rank":44,
+    "song":"Sweet Nothing",
+    "artist":"Calvin Harris feat. Florence Welch",
+    "genre":"edm",
+    "percent":0.444444444
+  },
+  {
+    "rank":73,
+    "song":"The Fox",
+    "artist":"Ylvis",
+    "genre":"edm",
+    "percent":0.441176471
+  },
+  {
+    "rank":65,
+    "song":"DJ Got Us Fallin' In Love",
+    "artist":"Usher feat. Pitbull",
+    "genre":"edm",
+    "percent":0.310344828
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "rank":25,
+    "song":"Sail",
+    "artist":"AWOLNATION",
+    "genre":"alternative rock",
+    "percent":0.708333333
+  },
+  {
+    "rank":40,
+    "song":"My Songs Know What You Did In The Dark (Light Em Up)",
+    "artist":"Fall Out Boy",
+    "genre":"alternative rock",
+    "percent":0.684210526
+  },
+  {
+    "rank":3,
+    "song":"Radioactive",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.642857143
+  },
+  {
+    "rank":91,
+    "song":"It's Time",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.596491228
+  },
+  {
+    "rank":47,
+    "song":"It's Time",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.596491228
+  },
+  {
+    "rank":30,
+    "song":"Too Close",
+    "artist":"Alex Clare",
+    "genre":"alternative rock",
+    "percent":0.55
+  },
+  {
+    "rank":97,
+    "song":"Animal",
+    "artist":"Neon Trees",
+    "genre":"alternative rock",
+    "percent":0.50877193
+  },
+  {
+    "rank":55,
+    "song":"Jar Of Hearts",
+    "artist":"Christina Perri",
+    "genre":"alternative rock",
+    "percent":0.5
+  },
+  {
+    "rank":66,
+    "song":"For The First Time",
+    "artist":"The Script",
+    "genre":"alternative rock",
+    "percent":0.5
+  },
+  {
+    "rank":62,
+    "song":"Demons",
+    "artist":"Imagine Dragons",
+    "genre":"alternative rock",
+    "percent":0.481012658
+  },
+  {
+    "rank":14,
+    "song":"Some Nights",
+    "artist":"fun.",
+    "genre":"alternative rock",
+    "percent":0.293103448
+  }
+]

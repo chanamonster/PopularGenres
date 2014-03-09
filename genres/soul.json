@@ -1,0 +1,30 @@
+[
+  {
+    "rank":1,
+    "song":"Rolling In The Deep",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.634146341
+  },
+  {
+    "rank":64,
+    "song":"Rumour Has It",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.605633803
+  },
+  {
+    "rank":24,
+    "song":"Someone Like You",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.509803922
+  },
+  {
+    "rank":12,
+    "song":"Set Fire To The Rain",
+    "artist":"Adele",
+    "genre":"soul",
+    "percent":0.438596491
+  }
+]
